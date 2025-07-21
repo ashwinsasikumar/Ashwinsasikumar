@@ -18,6 +18,14 @@
 
 ---
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashwinsasikumar&layout=compact&theme=tokyonight)
+
+![Ashwin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashwinsasikumar&show_icons=true&theme=tokyonight&hide=prs)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ashwinsasikumar&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)
+
+---
+
 ### 📊 GitHub Stats
 ![Ashwin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashwinsasikumar&show_icons=true&theme=tokyonight)
 
