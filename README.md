@@ -20,10 +20,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashwinsasikumar&layout=compact&theme=tokyonight)
 
-![Ashwin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashwinsasikumar&show_icons=true&theme=tokyonight&hide=prs)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ashwinsasikumar&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)
-
 ---
 
 ### 📊 GitHub Stats
@@ -40,4 +36,7 @@
 ---
 ### 🎯 2025 Goal
 Turn ideas into products — launch full-stack apps, explore GenAI deeply, and solve real-world problems that matter.
- 
+---
+### 📬 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ashwinsasikumar2006)  
