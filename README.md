@@ -50,8 +50,7 @@
 
 ---
 
-### 📊 GitHub Stats
-![Ashwin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashwinsasikumar&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashwinsasikumar&show_icons=true&theme=tokyonight)
 
 ---
 
