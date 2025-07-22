@@ -68,3 +68,4 @@ Turn ideas into products — launch full-stack apps, explore GenAI deeply, and s
 ### 📬 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ashwinsasikumar2006)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/ashwinsasikumar/)
